@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Article.css"],"names":[],"mappings":"AAAA,cACE,eAAgB,CAChB,aAAc,CACd,YAAa,CACb,wCACF","file":"main.f2377713.chunk.css","sourcesContent":[".article-wrap {\r\n  max-width: 500px;\r\n  margin: 0 auto;\r\n  padding: 20px;\r\n  box-shadow: 5px 5px 15px -3px #0000;\r\n}\r\n"]}
